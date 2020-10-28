@@ -1,0 +1,36 @@
+# Compiled source #
+*.class
+*/bin/*
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Packages
+*.jar
+
+# Maven build files
+target
+reports
+
+# Merge files
+*.orig
+
+# IntelliJ IDEA files
+*.iml
+.idea
+.idea/*
+
+# image folder
+test-output
+
+# Others
+.cdt/
+tmp/
+*.tar.gz
+*.tgz
+
+# secret keys
+secrets.py
+
